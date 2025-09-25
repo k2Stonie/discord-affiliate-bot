@@ -44,11 +44,11 @@ In your Render service settings, add these environment variables:
 
 #### **Required Variables:**
 ```
-DISCORD_BOT_TOKEN = MTQyMDQ3NTY0MzE2NjA2ODg3Nw.GN2cnO.CjueqW5ve7TU84OCFL6z5pv6AFYhxXWI-kD6_c
+DISCORD_BOT_TOKEN = YOUR_DISCORD_BOT_TOKEN_HERE
 API_BASE_URL = https://base44.app/api/apps/68d1f85a602cecfca6c02c10/functions
 BASE44_APP_ID = 68d1f85a602cecfca6c02c10
 DISCORD_CLIENT_ID = 1420475643166068877
-DISCORD_CLIENT_SECRET = _tJP0PDbzY_KtcDqxUOQB35-9f_sTejN
+DISCORD_CLIENT_SECRET = YOUR_DISCORD_CLIENT_SECRET_HERE
 ```
 
 #### **How to Add Variables:**
